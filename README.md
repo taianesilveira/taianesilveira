@@ -7,7 +7,6 @@
 *Transformo ideias em experiências digitais, automações inteligentes e soluções que funcionam no mundo real.*
 
 [![GitHub](https://img.shields.io/badge/GITHUB-PROJETOS-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taianesilveira)
-[![Visitas ao perfil](https://komarev.com/ghpvc/?username=taianesilveira&label=VISITAS&color=9B6DFF&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
 
 </div>
 
@@ -17,7 +16,7 @@
 
 Sou **Taiane Silveira**, desenvolvedora de software e fundadora da **Taiane Tech**, empresa que une desenvolvimento web, automações e inteligência artificial para criar soluções digitais úteis, bonitas e sustentáveis.
 
-Sou formada em **Análise e Desenvolvimento de Sistemas (2023)**. Meu trabalho conecta programação, experiência do usuário, integrações, IA aplicada, SEO técnico e visão de negócios — da primeira ideia à entrega em produção.
+Sou formada em **Análise e Desenvolvimento de Sistemas (2023)**. Meu trabalho conecta programação, experiência do usuário, integrações, IA aplicada, SEO técnico e visão de negócios, da primeira ideia à entrega em produção.
 
 Gosto de explorar novas ferramentas, construir produtos, experimentar com agentes de IA e transformar desafios reais em projetos utilizáveis.
 
@@ -98,6 +97,6 @@ Estou aberta a **colaborações, projetos de desenvolvimento, IA e soluções pa
 
 <div align="center">
 
-*Criatividade, tecnologia e inteligência artificial — um projeto de cada vez.* 💜
+*Criatividade, tecnologia e inteligência artificial, um projeto de cada vez.* 💜
 
 </div>
