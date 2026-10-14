@@ -90,6 +90,9 @@ Na **Taiane Tech**, desenvolvo sites, landing pages, aplicações web, assistent
 Estou aberta a **colaborações, projetos de desenvolvimento, IA e soluções para negócios**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taianesilveira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiane-silveira-733861211/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taianetech/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/taianetech/)
 
 ---
 
