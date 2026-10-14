@@ -7,7 +7,7 @@
 *Transformo ideias em experiências digitais, automações inteligentes e soluções que funcionam no mundo real.*
 
 [![GitHub](https://img.shields.io/badge/GITHUB-PROJETOS-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taianesilveira)
-![Visitas](https://komarev.com/ghpvc/?username=taianesilveira&label=VISITAS&color=9B6DFF&style=for-the-badge)
+[![Visitas ao perfil](https://komarev.com/ghpvc/?username=taianesilveira&label=VISITAS&color=9B6DFF&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
 
 </div>
 
@@ -42,7 +42,6 @@ Na **Taiane Tech**, desenvolvo sites, landing pages, aplicações web, assistent
 | **Esquina Automóveis** | Experiência web para loja de veículos, com catálogo e contato para potenciais compradores. | [Demo](https://esquinaautomoveis.app) |
 | **Rejane Valeriano** | Landing page responsiva para profissional de massoterapia. | [Website](https://rejane-valeriano-massoterapeuta.pages.dev) |
 | **Calobeto Fumigaciones** | Demonstração de site comercial para empresa de serviços. | [Demo](https://calobeto-fumigaciones-demo.taianetech.workers.dev/) |
-| **MazyOS** | Projeto de software disponível no meu GitHub. | [Repositório](https://github.com/taianesilveira/MazyOS) |
 
 <sub>Alguns projetos de clientes e demonstrações têm repositórios privados. Os links públicos mostram suas versões disponíveis.</sub>
 
